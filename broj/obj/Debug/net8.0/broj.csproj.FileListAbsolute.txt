@@ -1,0 +1,14 @@
+C:\Users\Sonja\source\repos\broj\broj\bin\Debug\net8.0\broj.exe
+C:\Users\Sonja\source\repos\broj\broj\bin\Debug\net8.0\broj.deps.json
+C:\Users\Sonja\source\repos\broj\broj\bin\Debug\net8.0\broj.runtimeconfig.json
+C:\Users\Sonja\source\repos\broj\broj\bin\Debug\net8.0\broj.dll
+C:\Users\Sonja\source\repos\broj\broj\bin\Debug\net8.0\broj.pdb
+C:\Users\Sonja\source\repos\broj\broj\obj\Debug\net8.0\broj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sonja\source\repos\broj\broj\obj\Debug\net8.0\broj.AssemblyInfoInputs.cache
+C:\Users\Sonja\source\repos\broj\broj\obj\Debug\net8.0\broj.AssemblyInfo.cs
+C:\Users\Sonja\source\repos\broj\broj\obj\Debug\net8.0\broj.csproj.CoreCompileInputs.cache
+C:\Users\Sonja\source\repos\broj\broj\obj\Debug\net8.0\broj.dll
+C:\Users\Sonja\source\repos\broj\broj\obj\Debug\net8.0\refint\broj.dll
+C:\Users\Sonja\source\repos\broj\broj\obj\Debug\net8.0\broj.pdb
+C:\Users\Sonja\source\repos\broj\broj\obj\Debug\net8.0\broj.genruntimeconfig.cache
+C:\Users\Sonja\source\repos\broj\broj\obj\Debug\net8.0\ref\broj.dll
